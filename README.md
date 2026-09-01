@@ -1,10 +1,8 @@
-#  Hi, I'm Munir Hussain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:021512,50:0A2B22,100:021512&height=250&section=header&text=Munir%20Hussain&fontSize=55&fontColor=2DD4BF&animation=twinkling&desc=Learner%20%7C%20Developer%20%7C%20Creativity&descAlignY=63&descSize=18&descColor=CCFBF1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&left=true&vLeft=true&width=700&lines=Front-End+Developer;JavaScript+Enthusiast;React.js+Developer;Building+Interactive+Web+Experiences;Future+Full-Stack+Developer" alt="Typing SVG" />
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/munirhussain005/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)](https://munir-hussain-portfolio.vercel.app/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/munir005)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/munirhussain005/) . [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)](https://munir-hussain-portfolio.vercel.app/) . [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/munir005)
 
 
 ---
@@ -33,22 +31,23 @@ I believe in learning through **building, experimenting, solving problems, and c
 ## 🛠️ Tech Stack
 
 ### 💻 Front-End
-
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-
+<div align="center">
+<img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=60&bg=0F3D30&shape=circle" title="HTML5" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=60&bg=0F3D30&shape=circle" title="CSS3" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=60&bg=0F3D30&shape=circle" title="JavaScript" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=60&bg=0F3D30&shape=circle" title="Bootstrap" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=60&bg=0F3D30&shape=circle" title="Tailwind CSS" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=react&size=60&bg=0F3D30&shape=circle" title="React.js" />
+</div>
   
   
 ### 🔧 Tools
 
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
+<div align="center">
+<img src="https://www.readmecodegen.com/api/social-icon?name=git&size=60&bg=0F3D30&shape=circle" title="git" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=60&bg=0F3D30&shape=circle&color=2DD4BF" title="GitHub" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=vercel&size=60&bg=0F3D30&shape=circle&color=ffffff" alt="vercel" />
+</div>
 
 ---
 

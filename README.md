@@ -8,7 +8,7 @@
 ---
 ## 👨‍💻 About Me
 
-I'm a passionate **Front-End Developer** from Pakistan who enjoys building responsive, interactive, and user-friendly web experiences.
+I'm a passionate **Front-End Developer** who enjoys building responsive, interactive, and user-friendly web experiences.
 
 I have a strong foundation in **HTML, CSS, JavaScript, Tailwind Css, and React.js** and enjoy turning ideas into real-world web projects. Currently, I'm expanding my skills by learning **React.js** and exploring modern front-end development practices.
 
@@ -46,7 +46,7 @@ I believe in learning through **building, experimenting, solving problems, and c
 <div align="center">
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=60&bg=0F3D30&shape=circle" title="git" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=60&bg=0F3D30&shape=circle&color=2DD4BF" title="GitHub" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=vercel&size=60&bg=0F3D30&shape=circle&color=ffffff" alt="vercel" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=vercel&size=60&bg=0F3D30&shape=circle&color=ffffff" title="vercel" />
 </div>
 
 ---
@@ -130,7 +130,7 @@ Full-Stack Developer 🚀
 * [x] Create personal portfolio
 * [x] Start Tailwind CSS
 * [x] Start React.js
-* [ ] Build React projects
+* [x] Build React projects
 * [ ] Learn Next.js
 * [ ] Learn Node.js & Express
 * [ ] Build full-stack applications
